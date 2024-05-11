@@ -1,1 +1,1 @@
-# schoolgames.github.io
+# gptgames.github.io
